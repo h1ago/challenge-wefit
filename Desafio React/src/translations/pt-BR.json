@@ -1,0 +1,22 @@
+{
+    "header": {
+        "logo": "WeMovies",
+        "myCart": "Meu Carrinho",
+        "itemCart_one": "{{count}} item",
+        "itemCart_other": "{{count}} itens",
+        "itemCart_zero": "{{count}} itens"
+    },
+    "placeholder": "Buscar filme pelo nome",
+    "cart": {
+        "product": "Produto",
+        "quantity": "Qtd",
+        "subtotal": "Subtotal",
+        "placeOrder": "Finalizar Pedido",
+        "total": "Total"
+    },
+    "empty": "Parece que não há nada por aqui :(",
+    "purchaseCompleted":"Compra realizada com sucesso!",
+    "pageReload":"Recarregar Página",
+    "back":"Voltar",
+    "addProductToCart": "Adicionar ao carrinho"
+}
